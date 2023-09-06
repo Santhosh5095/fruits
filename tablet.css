@@ -1,0 +1,17 @@
+
+@media (max-width:600px){
+    *{
+        font-size: 10px;
+    }
+    body{
+        background: red;
+    }
+    .box1 .content2 img{
+        height: 20rem;
+    }
+    .box2 .box3 .input-2{
+        position: relative;
+        top:-5.1rem;
+        left: 10.5rem;
+    }
+}

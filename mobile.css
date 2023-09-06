@@ -1,0 +1,16 @@
+@media (max-width:480px){
+    *{
+        font-size: 7px;
+    }
+    body{
+        background: greenyellow;
+    }
+    .box1 .content2 img{
+        height: 17rem;
+    }
+    .box2 .box3 .input-2{
+        position: relative;
+        top:-5.2rem;
+        left: 10.7rem;
+    }
+}
